@@ -16,9 +16,11 @@ Suburban	$19356.33	490	30.46%	$30.97	$39.503
 Urban	$39854.38	2405	62.72%	$24.53	$16.57
 
 
+
 As you can see from the above table, the majority of the revenue is coming from the Urban Areas, although the average price is the per ride and per Driver is the lowest.
  ![image](https://user-images.githubusercontent.com/78710287/110269730-2c8adb00-7f79-11eb-9352-0e42aa5d4db3.png)
-# This graph is not coming through, it is the last graph on Deliverable 2
+# This graph is not coming through, it is the last graph on Deliverable 2, it may be displayed somewhere else.
+
 The above graph is very proportional then it shows a dip in April, which may indicate a loss of service.
 Summary:
 Recommendations to the CEO:
