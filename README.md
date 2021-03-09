@@ -20,6 +20,8 @@ Urban	$39854.38	2405	62.72%	$24.53	$16.57
 
 As you can see from the above table, the majority of the revenue is coming from the Urban Areas, although the average price is the per ride and per Driver is the lowest.
 
+![Screenshot](fare_summary.png)
+
 Summary:
 
 Recommendations to the CEO:
